@@ -1,0 +1,60 @@
+header {
+  align-content: center;
+  text-align: center;
+  padding: 20px;
+}
+.barra {
+  text-align: center;
+  background-color: rgb(247, 245, 216);
+  padding: 10px;
+  color: darkcyan;
+  border-top: 2px solid rgb(243, 236, 131);
+}
+.logo {
+  width: 200px;
+  text-align: center;
+  margin: 0 auto;
+}
+#main-container {
+  width: 700px;
+  margin: 0 auto;
+  padding: 20px;
+}
+body {
+  font-family: "Georgia", sans-serif;
+}
+#blocco {
+  color: rgb(192, 129, 11);
+  border-left: 2px solid rgb(236, 222, 89);
+  padding-left: 2rem;
+}
+#mainimg {
+  border-radius: 10px 10px 10px 10px;
+  text-align: center;
+}
+
+#didascalia {
+  text-align: center;
+  color: darkgray;
+}
+
+main {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+h2 {
+  border-bottom: 1px solid #00bcd4;
+  padding-bottom: 1.5rem;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font: bold;
+}
+h1 {
+  text-align: center;
+}
